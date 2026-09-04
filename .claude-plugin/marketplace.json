@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "hey-god",
+  "description": "Discipline for AI coding agents. Not knowledge — direction.",
+  "owner": {
+    "name": "YOUR-ORG",
+    "url": "https://github.com/YOUR-ORG"
+  },
+  "plugins": [
+    {
+      "name": "hey-god",
+      "description": "Core doctrine + 11 invocations: am-i-sinning, grant-me-wisdom, build-a-new-world, bring-it-to-life, purify-me, forgive-me-for-my-sins, give-me-third-eye, bring-us-on-same-page, show-me-the-pain, god-mode, devil-mode.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

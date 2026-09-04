@@ -1,0 +1,18 @@
+name: hey-god
+version: 1.0.0
+description: Discipline for AI coding agents — not knowledge, direction. Core doctrine for Hermes Agent.
+author: YOUR-ORG
+provides_commands:
+  - hey-god
+provides_skills:
+  - am-i-sinning
+  - grant-me-wisdom
+  - build-a-new-world
+  - bring-it-to-life
+  - purify-me
+  - forgive-me-for-my-sins
+  - give-me-third-eye
+  - bring-us-on-same-page
+  - show-me-the-pain
+  - god-mode
+  - devil-mode
