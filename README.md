@@ -81,7 +81,7 @@ No invocation needed for normal work, the doctrine applies to any coding task wi
 ### Claude Code
 
 ```
-/plugin marketplace add YOUR-ORG/hey-god
+/plugin marketplace add sudo-pradip/hey-god
 /plugin install hey-god@hey-god
 ```
 
@@ -90,7 +90,7 @@ Two separate prompts. Skills appear namespaced (`hey-god:am-i-sinning`, `hey-god
 ### Codex
 
 ```
-codex plugin marketplace add YOUR-ORG/hey-god
+codex plugin marketplace add sudo-pradip/hey-god
 codex plugin add hey-god@hey-god
 ```
 
@@ -99,14 +99,14 @@ Run `codex` and start a new thread. The VS Code Codex extension reads `AGENTS.md
 ### GitHub Copilot CLI
 
 ```
-copilot plugin marketplace add YOUR-ORG/hey-god
+copilot plugin marketplace add sudo-pradip/hey-god
 copilot plugin install hey-god@hey-god
 ```
 
 In an interactive Copilot CLI session, use the slash equivalents:
 
 ```
-/plugin marketplace add YOUR-ORG/hey-god
+/plugin marketplace add sudo-pradip/hey-god
 /plugin install hey-god@hey-god
 ```
 
@@ -115,7 +115,7 @@ Copilot CLI fallback (instruction-only mode): it reads `AGENTS.md` and `.github/
 ### Gemini CLI
 
 ```
-gemini extensions install https://github.com/YOUR-ORG/hey-god
+gemini extensions install https://github.com/sudo-pradip/hey-god
 ```
 
 Loads the ruleset as always-on context every session. The skills ship too, activated when a task needs them.
@@ -123,7 +123,7 @@ Loads the ruleset as always-on context every session. The skills ship too, activ
 ### Antigravity CLI
 
 ```
-agy plugin install https://github.com/YOUR-ORG/hey-god
+agy plugin install https://github.com/sudo-pradip/hey-god
 ```
 
 Reuses the `gemini-extension.json`. Until the Gemini → Antigravity migration completes, `gemini extensions install` still works too. To run it as an always-on rule instead, drop the ruleset into `.agents/rules/`.
@@ -131,13 +131,13 @@ Reuses the `gemini-extension.json`. Until the Gemini → Antigravity migration c
 ### Pi agent harness
 
 ```
-pi install git:github.com/YOUR-ORG/hey-god
+pi install git:github.com/sudo-pradip/hey-god
 ```
 
 ### Devin CLI
 
 ```
-devin plugins install YOUR-ORG/hey-god
+devin plugins install sudo-pradip/hey-god
 ```
 
 Skills are available as `hey-god:am-i-sinning`, `hey-god:grant-me-wisdom`, and so on.
@@ -145,7 +145,7 @@ Skills are available as `hey-god:am-i-sinning`, `hey-god:grant-me-wisdom`, and s
 ### Grok Build
 
 ```
-grok plugin install YOUR-ORG/hey-god --trust
+grok plugin install sudo-pradip/hey-god --trust
 ```
 
 Enable the plugin: `/plugins` → Space on `hey-god`, or in `~/.grok/config.toml`:
@@ -160,7 +160,7 @@ enabled = ["hey-god"]
 ### Hermes Agent
 
 ```
-hermes plugins install YOUR-ORG/hey-god --enable
+hermes plugins install sudo-pradip/hey-god --enable
 ```
 
 Restart Hermes after installing.
@@ -182,7 +182,7 @@ Qoder auto-loads `AGENTS.md` from the repo root as always-on context, so running
 ### Cursor
 
 ```
-mkdir -p .cursor/rules && curl -o .cursor/rules/hey-god.mdc https://raw.githubusercontent.com/YOUR-ORG/hey-god/main/.cursor/rules/hey-god.mdc
+mkdir -p .cursor/rules && curl -o .cursor/rules/hey-god.mdc https://raw.githubusercontent.com/sudo-pradip/hey-god/main/.cursor/rules/hey-god.mdc
 ```
 
 ### Windsurf
@@ -204,7 +204,7 @@ These all read `AGENTS.md` from the project root, which this repo ships, zero se
 ### Swival
 
 ```
-swival skills add --global https://github.com/YOUR-ORG/hey-god
+swival skills add --global https://github.com/sudo-pradip/hey-god
 swival skills add hey-god
 ```
 

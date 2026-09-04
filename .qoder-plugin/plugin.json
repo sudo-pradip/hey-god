@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Discipline for AI coding agents — not knowledge, direction. Core doctrine plus invocation skills.",
   "author": {
-    "name": "YOUR-ORG",
-    "url": "https://github.com/YOUR-ORG"
+    "name": "sudo-pradip",
+    "url": "https://github.com/sudo-pradip"
   },
-  "homepage": "https://github.com/YOUR-ORG/hey-god",
-  "repository": "https://github.com/YOUR-ORG/hey-god",
+  "homepage": "https://github.com/sudo-pradip/hey-god",
+  "repository": "https://github.com/sudo-pradip/hey-god",
   "license": "MIT",
   "keywords": ["clean-code", "architecture", "discipline", "refactoring", "code-review", "tech-debt"],
   "skills": "./skills/",

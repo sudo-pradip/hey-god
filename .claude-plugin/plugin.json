@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "Discipline for AI coding agents — not knowledge, direction. Core doctrine plus invocation skills: judgment (am-i-sinning), counsel (grant-me-wisdom), genesis (build-a-new-world), feature guidance, safe refactoring (purify-me), the devil's bargain with a SINS.md ledger (forgive-me-for-my-sins), give-me-third-eye, same-page alignment, pain-point storytelling, and the autonomous god-mode / devil-mode runs.",
   "author": {
-    "name": "YOUR-ORG"
+    "name": "sudo-pradip"
   },
-  "homepage": "https://github.com/YOUR-ORG/hey-god",
-  "repository": "https://github.com/YOUR-ORG/hey-god",
+  "homepage": "https://github.com/sudo-pradip/hey-god",
+  "repository": "https://github.com/sudo-pradip/hey-god",
   "license": "MIT",
   "keywords": ["clean-code", "architecture", "discipline", "refactoring", "code-review", "tech-debt"]
 }
