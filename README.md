@@ -52,17 +52,17 @@ hey-god is a plugin: a core doctrine plus one skill per invocation.
 
 | Say | You get |
 |---|---|
-| `hey-god am i sinning?` | Verdict + sins by rule ID + penance for each |
-| `hey-god grant me wisdom` | Quick-fix vs right-way, priced at the 10th change, ONE pick |
-| `hey-god build a new world` | New-project sequence: qualities → style → seams → ADRs → first slice |
-| `hey-god bring it to life` | The insertion-point ladder; every changed line traces to the feature |
-| `hey-god purify me` | Safe refactoring: behavior pinned first, small green steps, ledger debts repaid |
-| `hey-god forgive me for my sins` | The devil's bargain: shortcut granted NOW, debt written in `SINS.md` |
-| `hey-god give me third eye` | A calm outsider re-measures the problem the conversation inflated |
-| `hey-god bring us on same page` | Blind-spot questions + assumptions surfaced BEFORE building, kills the 2-3 wasted iterations |
-| `hey-god show me the pain` | Your system as a story, components as characters, pain named where it lives |
-| `hey-god god mode` | Autonomous run-to-merge on the righteous path, aligns once, then no more questions until the PR is in main |
-| `hey-god devil mode` | ⚠ Berserk run-to-merge, shortcuts unlimited, every sin auto-billed to `SINS.md`, gates convinced but never broken |
+| `hey-god-bring-us-on-same-page` | Blind-spot questions + assumptions surfaced BEFORE building, kills the 2-3 wasted iterations |
+| `hey-god-give-me-third-eye` | A calm outsider re-measures the problem the conversation inflated |
+| `hey-god-show-me-the-pain` | Your system as a story, components as characters, pain named where it lives |
+| `hey-god-bring-it-to-life` | Implement New Feature; every changed line traces to the feature |
+| `hey-god-god-mode` | Autonomous run-to-merge on the righteous path, aligns once, then no more questions until the PR is in main |
+| `hey-god-devil-mode` | ⚠ Berserk run-to-merge, shortcuts unlimited, every sin auto-billed to `SINS.md`, gates convinced but never broken |
+| `hey-god-grant-me-wisdom` | Quick-fix vs right-way, priced at the 10th change, ONE pick |
+| `hey-god-build-a-new-world` | New-project sequence: qualities → style → seams → ADRs → first slice |
+| `hey-god-purify-me` | Safe refactoring: behavior pinned first, small green steps, ledger debts repaid |
+| `hey-god-forgive-me-for-my-sins` | The devil's bargain: shortcut granted NOW, debt written in `SINS.md` |
+| `hey-god-am-i-sinning?` | Verdict + sins by rule ID + penance for each |
 
 No invocation needed for normal work, the doctrine applies to any coding task with lasting structure.
 
@@ -77,6 +77,12 @@ No invocation needed for normal work, the doctrine applies to any coding task wi
 - **Speaks human.** All modes answer in plain words and short stories by default, components as real things with jobs, consequences as what you'll feel, because humans reply better to stories, and better replies mean fewer iterations. Technical on request.
 
 ## Install
+
+Easy way to install across all agents, scope
+
+```
+npx skills add sudo-pradip/hey-god
+```
 
 ### Claude Code
 
