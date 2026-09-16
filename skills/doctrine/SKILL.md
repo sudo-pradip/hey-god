@@ -1,6 +1,7 @@
 ---
 name: doctrine
 description: Use when writing, changing, or designing code with lasting structure — any feature, refactor, redesign, or structural decision — and always when the user says any hey-god phrase ("hey god", "am I sinning", "purify me", "forgive me for my sins", "grant me wisdom", "give me third eye", "build a new world"). This is the core doctrine; the sibling invocation skills (am-i-sinning, grant-me-wisdom, build-a-new-world, bring-it-to-life, purify-me, forgive-me-for-my-sins, give-me-third-eye) handle each mode. Do NOT use for throwaway scripts the user labels disposable, non-code writing, or pure debugging with no structural change.
+description: Use when writing, changing, or designing code with lasting structure — any feature, refactor, redesign, or structural decision — and always when the user says any hey-god phrase ("hey god", "am I sinning", "purify me", "forgive me for my sins", "grant me wisdom", "give me third eye", "build a new world", "you are the boss"). This is the core doctrine; the sibling invocation skills (am-i-sinning, grant-me-wisdom, build-a-new-world, bring-it-to-life, purify-me, forgive-me-for-my-sins, give-me-third-eye, you-are-the-boss) handle each mode. Do NOT use for throwaway scripts the user labels disposable, non-code writing, or pure debugging with no structural change.
 ---
 
 # Hey God — Core Doctrine
@@ -39,6 +40,7 @@ No exceptions for time pressure. These laws exist *because of* time pressure: sk
 | `hey-god-show-me-the-pain` — "what's wrong with my system", "why are changes slow" | **show-me-the-pain** |
 | `hey-god-god-mode` — run the goal to merged PR autonomously, righteous path | **god-mode** (explicit invocation only) |
 | `hey-god-devil-mode` — ⚠ run the goal to merged PR berserk, shortcuts unlimited, sins auto-logged | **devil-mode** (explicit invocation + pact only) |
+| `hey-god-you-are-the-boss` — ownership inversion, agent owns the outcome, human becomes a consulted resource | **you-are-the-boss** (explicit invocation only) |
 
 When no invocation is spoken but the work fits, the mode still applies. **Answer style everywhere:** light theming, serious engineering — *sin* (rule violation), *commandment* (Iron Law), *penance* (the fix). Never mock the user; the sinner is always welcome. A clean verdict is stated plainly: "No sin found. Ship it."
 

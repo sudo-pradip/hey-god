@@ -58,6 +58,7 @@ hey-god is a plugin: a core doctrine plus one skill per invocation.
 | `hey-god-bring-it-to-life` | Implement New Feature; every changed line traces to the feature |
 | `hey-god-god-mode` | Autonomous run-to-merge on the righteous path, aligns once, then no more questions until the PR is in main |
 | `hey-god-devil-mode` | ⚠ Berserk run-to-merge, shortcuts unlimited, every sin auto-billed to `SINS.md`, gates convinced but never broken |
+| `hey-god-you-are-the-boss` | Ownership inversion — you hand the outcome, agent owns the work and decisions, you become a consulted resource, veto is your one absolute power |
 | `hey-god-grant-me-wisdom` | Quick-fix vs right-way, priced at the 10th change, ONE pick |
 | `hey-god-build-a-new-world` | New-project sequence: qualities → style → seams → ADRs → first slice |
 | `hey-god-purify-me` | Safe refactoring: behavior pinned first, small green steps, ledger debts repaid |
@@ -256,6 +257,7 @@ skills/
   am-i-sinning/          grant-me-wisdom/   build-a-new-world/   bring-it-to-life/
   purify-me/           forgive-me-for-my-sins/              give-me-third-eye/
   bring-us-on-same-page/    show-me-the-pain/    god-mode/    devil-mode/
+  you-are-the-boss/
 AGENTS.md                   canonical single-file mirror (Codex, Aider, Amp, Jules, CodeWhale)
 gemini-extension.json       Gemini CLI / Antigravity CLI extension manifest
 opencode.json               OpenCode plugin config
